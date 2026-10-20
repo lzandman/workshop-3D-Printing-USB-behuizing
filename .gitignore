@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+._*
+
+# FreeCAD backups and autosave files
+*.FCBak
+*.FCStd[0-9]*
+*.FCStd.autosave
+
+# Python cache
+__pycache__/
+*.py[cod]
